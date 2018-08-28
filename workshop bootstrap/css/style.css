@@ -1,0 +1,5 @@
+.col-md-1{background-color: blueviolet;
+background-clip: content-box;
+height: 150px;
+}
+.col-md-4{margin-top:20px;}
